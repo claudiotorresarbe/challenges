@@ -42,7 +42,7 @@ Exercícios e desafios voltados para desenvolvimento e programação, incluindo:
 * Problem Solving
 * Data Science
 
-📁 [Acessar desafios do Beecrowd](https://github.com/claudiotorresarbe/challenges/tree/main/hackerrank)
+📁 [Acessar desafios do hackerrank](https://github.com/claudiotorresarbe/challenges/tree/main/hackerrank)
 
 ---
 
@@ -59,7 +59,7 @@ Desafios e laboratórios práticos relacionados a **Cyber Security**, com exerc�
 * CTFs
 * Reconhecimento e exploração
 
-📁 [Acessar desafios do Beecrowd](https://github.com/claudiotorresarbe/challenges/tree/main/tryhackme)
+📁 [Acessar desafios do tryhackme](https://github.com/claudiotorresarbe/challenges/tree/main/tryhackme)
 
 ---
 
@@ -77,7 +77,7 @@ Conteúdos envolvendo:
 * Algoritmos de ML
 * Implementação de modelos
 
-📁 [Acessar desafios do Beecrowd](https://github.com/claudiotorresarbe/challenges/tree/main/deep-ml)
+📁 [Acessar desafios do deep-ml](https://github.com/claudiotorresarbe/challenges/tree/main/deep-ml)
 
 ---
 
