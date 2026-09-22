@@ -1,0 +1,1 @@
+select name,LENGTH(name) from people order by 2 desc
