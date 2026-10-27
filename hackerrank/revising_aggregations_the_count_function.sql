@@ -1,0 +1,9 @@
+SET FEEDBACK OFF;
+SET ECHO OFF;
+SET HEADING OFF;
+SET WRAP OFF;
+SET LINESIZE 10000;
+SET TAB OFF;
+
+select count(*) from city where population> 100000;
+exit;

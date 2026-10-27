@@ -1,0 +1,14 @@
+SET NULL "NULL";
+SET FEEDBACK OFF;
+SET ECHO OFF;
+SET HEADING OFF;
+SET WRAP OFF;
+SET LINESIZE 10000;
+SET TAB OFF;
+SET PAGES 0;
+SET DEFINE OFF;
+
+select round(min(lat_n),4)
+  from station a
+ where lat_n > 38.7780;
+exit;

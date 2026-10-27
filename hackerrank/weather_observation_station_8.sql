@@ -1,0 +1,15 @@
+SET FEEDBACK OFF;
+
+SELECT CITY
+  FROM
+(
+SELECT DISTINCT 
+       CITY
+      , LENGTH(CITY) AS TAM 
+   FROM STATION
+)
+WHERE SUBSTR(UPPER(CITY),0,1) IN ('A','E','I','O','U')
+  AND SUBSTR(UPPER(CITY),TAM,1) IN ('A','E','I','O','U');
+  
+  
+exit;
