@@ -1,0 +1,13 @@
+n = int(input())
+ 
+for x in range(n):
+    a,b,c = list(map(int,input().split()))
+ 
+    if a + b == c:
+        print('YES')
+    elif b + c == a:
+        print('YES')
+    elif a + c == b:
+        print('YES')
+    else:
+        print('NO')
