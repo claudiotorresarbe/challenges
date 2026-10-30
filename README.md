@@ -10,9 +10,10 @@ O objetivo é centralizar diferentes desafios práticos utilizados para **aprend
 challenges/
 │
 ├── beecrowd/
+├── codeforces/
+├── deep-ml/
 ├── hackerrank/
-├── tryhackme/
-└── deep-ml/
+└── tryhackme/
 ```
 
 ### 🧩 Beecrowd
@@ -28,6 +29,37 @@ Desafios de programação e resolução de problemas, envolvendo principalmente:
 * Problemas de otimização
 
 📁 [Acessar desafios do Beecrowd](https://github.com/claudiotorresarbe/challenges/tree/main/beecrowd)
+
+### 🧩 codeforces
+
+Desafios de programação e resolução de problemas, que envolve:
+
+* Lógica de programação
+* Algoritmos
+* Estruturas de dados
+* Matemática
+* Manipulação de strings
+* Problemas de otimização
+
+📁 [Acessar desafios do Beecrowd](https://github.com/claudiotorresarbe/challenges/tree/main/codeforces)
+
+---
+
+### 🤖 Deep-ML
+
+Desafios relacionados a **Machine Learning**, matemática e fundamentos de inteligência artificial.
+
+Conteúdos envolvendo:
+
+* Machine Learning
+* Álgebra linear
+* Probabilidade e estatística
+* Cálculo
+* NumPy
+* Algoritmos de ML
+* Implementação de modelos
+
+📁 [Acessar desafios do deep-ml](https://github.com/claudiotorresarbe/challenges/tree/main/deep-ml)
 
 ---
 
@@ -63,24 +95,6 @@ Desafios e laboratórios práticos relacionados a **Cyber Security**, com exerc�
 
 ---
 
-### 🤖 Deep-ML
-
-Desafios relacionados a **Machine Learning**, matemática e fundamentos de inteligência artificial.
-
-Conteúdos envolvendo:
-
-* Machine Learning
-* Álgebra linear
-* Probabilidade e estatística
-* Cálculo
-* NumPy
-* Algoritmos de ML
-* Implementação de modelos
-
-📁 [Acessar desafios do deep-ml](https://github.com/claudiotorresarbe/challenges/tree/main/deep-ml)
-
----
-
 ## 🎯 Objetivo
 
 Este repositório funciona como um **portfólio de prática técnica**, reunindo diferentes tipos de problemas e soluções desenvolvidos ao longo dos estudos.
@@ -90,9 +104,11 @@ A organização por plataforma permite acompanhar a evolução em diferentes ár
 | Área                     | Plataforma |
 | ------------------------ | ---------- |
 | Programação e algoritmos | Beecrowd   |
+| Programação e algoritmos | codeforces |
+| Machine Learning         | Deep-ML    |
 | Programação e SQL        | HackerRank |
 | Cyber Security           | TryHackMe  |
-| Machine Learning         | Deep-ML    |
+
 
 ## 🛠️ Tecnologias
 
