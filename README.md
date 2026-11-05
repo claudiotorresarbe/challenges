@@ -13,6 +13,7 @@ challenges/
 ├── codeforces/
 ├── deep-ml/
 ├── hackerrank/
+├── leetcode/
 └── tryhackme/
 ```
 
@@ -78,6 +79,18 @@ Exercícios e desafios voltados para desenvolvimento e programação, incluindo:
 
 ---
 
+### 💻 LeetCode
+
+Exercícios e desafios voltados para desenvolvimento e programação, incluindo:
+
+* Python
+* SQL
+* Algoritmos
+
+📁 [Acessar desafios do hackerrank](https://github.com/claudiotorresarbe/challenges/tree/main/leetcode)
+
+---
+
 ### 🔐 TryHackMe
 
 Desafios e laboratórios práticos relacionados a **Cyber Security**, com exercícios envolvendo:
@@ -107,6 +120,7 @@ A organização por plataforma permite acompanhar a evolução em diferentes ár
 | Programação e algoritmos | codeforces |
 | Machine Learning         | Deep-ML    |
 | Programação e SQL        | HackerRank |
+| Programação e SQL        | LeetCode   |
 | Cyber Security           | TryHackMe  |
 
 
